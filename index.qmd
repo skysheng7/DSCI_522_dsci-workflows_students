@@ -39,6 +39,7 @@ At your service!
 | :----------------: | :--------------------: | :----------------------: |
 |     Instructor     |      Daniel Chen       |  `@Daniel (Instructor)`  |
 |     Instructor     |    Sky Kehan Sheng     |          `@Sky`          |
+| Teaching Assistant |     Agam Sanghera      |         `@Agam`          |
 | Teaching Assistant |   Cynthia Limantono    |     `@Cynthia (TA)`      |
 | Teaching Assistant |    Foroogh Najafi      |      `@Foroogh(TA)`      |
 | Teaching Assistant |      Jiyoung Han       |   `@Jiyoung Han (TA)`    |
@@ -47,7 +48,6 @@ At your service!
 | Teaching Assistant |      Rúbia Guerra      |      `@Rubia (TA)`       |
 | Teaching Assistant |     Sahar Sattari      |     `@Sahar Sattari`     |
 | Teaching Assistant |       Tony Fong        |    `@Tony Fong (TA)`     |
-| Teaching Assistant |     Agam Sanghera      |         `@Agam`          |
 
 ## Deliverables
 
